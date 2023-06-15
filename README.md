@@ -2,4 +2,11 @@
   <h1>TikTok clone</h1>
 </div>
 
+#### Este projeto consiste em um clone do tiktok feito durante o bootcamp da EBAC- Escola britânica de artes criativas e tecnologia.
+
+## Tecnologias Utilizadas 
+    Para fazer Esse projeto foram  utilizadas as seguintes tecnologias:
+- HTML5;
+- CSS3;
+- Javascript.
 
