@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>TikTok clone</h1>
+  <h1>TikTok clone</h1> <img src=""></img>
 </div>
 
 #### Este projeto consiste em um clone do tiktok feito durante o bootcamp da EBAC- Escola britânica de artes criativas e tecnologia.
