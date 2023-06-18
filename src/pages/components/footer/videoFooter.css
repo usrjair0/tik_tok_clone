@@ -17,10 +17,6 @@
   display: flex;
 }
 
-.videoFooter__icon{
-
-}
-
 .videoFooterMusic__text {
     width: 65%;
     overflow-x: hidden;
