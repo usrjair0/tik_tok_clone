@@ -1,10 +1,10 @@
 import React from 'react'
 import "./videoFooter.css"
 
-function videoFooter() {
+function VideoFooter() {
   return (
-    <div className='videoFooter'>videoFooter</div>
+    <div className='videoFooter'>VideoFooter</div>
   )
 }
 
-export default videoFooter
+export default VideoFooter
