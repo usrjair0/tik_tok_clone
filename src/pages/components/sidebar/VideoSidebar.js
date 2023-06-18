@@ -16,11 +16,11 @@ function VideoSidebar() {
     <div className='videoSidebar'>
       <div 
       className='videoSidebar__options'
-      onClick={handdleLike()}
+      onClick={handdleLike}
       >
         { liked ? <FavoriteIcon fontSize='large'/> : <FavoriteBorderIcon fontSize='large' id="heart"/>}
 
-        <p>300</p>
+        <p> { liked ? 300+1 : 300 }</p>
       </div>
       <div className='videoSidebar__options'>
         <ChatIcon fontSize='large'/>
