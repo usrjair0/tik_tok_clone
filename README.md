@@ -2,6 +2,7 @@
   <img src="./assets/tiktoklogo.png" width="100px" align="right">
   <h1 align="center">TikTok clone</h1> <br>
 </div>
+
 ## 🖥️ Projeto 
 #### Este projeto consiste em um clone web responsivo do tiktok feito durante o bootcamp da EBAC- Escola britânica de artes criativas e tecnologia.
 
